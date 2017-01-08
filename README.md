@@ -29,7 +29,7 @@
 * Safari+
 * Internet Explorer 10+
 
-# Live Demo: [Restaurant][10]
+## Live Demo: [Restaurant][10]
 
 ***
 [1]: http://getbootstrap.com "Bootstrap"
